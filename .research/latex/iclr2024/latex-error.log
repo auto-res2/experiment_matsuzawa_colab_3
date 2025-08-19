@@ -265,185 +265,83 @@ s been generated with the most recent feature set (\pgfplotsset{compat=1.18}).
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg)
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd)
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msb.cfg)
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.50 ...aster, moon\_2024-08-12T05:33:45Z\_simple}
-                                                  , our approach tailors com...
+
+Package natbib Warning: Citation `li2023faster' on page 1 undefined on input li
+ne 50.
 
 
-Package natbib Warning: Citation `li\T1\textunderscore2023-12-15T08:46:43Z\T1\t
-extunderscorefaster' on page 1 undefined on input line 50.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.50 ...aster, moon\_2024-08-12T05:33:45Z\_simple}
-                                                  , our approach tailors com...
-
-
-Package natbib Warning: Citation `moon\T1\textunderscore2024-08-12T05:33:45Z\T1
-\textunderscoresimple' on page 1 undefined on input line 50.
+Package natbib Warning: Citation `moon2024simple' on page 1 undefined on input 
+line 50.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd)
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.60 ...aster, moon\_2024-08-12T05:33:45Z\_simple}
-                                                  .
 
-Package natbib Warning: Citation `li\T1\textunderscore2023-12-15T08:46:43Z\T1\t
-extunderscorefaster' on page 1 undefined on input line 60.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.60 ...aster, moon\_2024-08-12T05:33:45Z\_simple}
-                                                  .
-
-Package natbib Warning: Citation `moon\T1\textunderscore2024-08-12T05:33:45Z\T1
-\textunderscoresimple' on page 1 undefined on input line 60.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.67 ...salimans\_2024-06-06T14:20:21Z\_multistep}
-                                                   sought to reduce the numb...
+Package natbib Warning: Citation `li2023faster' on page 1 undefined on input li
+ne 60.
 
 
-Package natbib Warning: Citation `salimans\T1\textunderscore2024-06-06T14:20:21
-Z\T1\textunderscoremultistep' on page 1 undefined on input line 67.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.67 ... \cite{xia\_2023-10-14T02:19:07Z\_towards}
-                                                   and have attempted to reu...
+Package natbib Warning: Citation `moon2024simple' on page 1 undefined on input 
+line 60.
 
 
-Package natbib Warning: Citation `xia\T1\textunderscore2023-10-14T02:19:07Z\T1\
-textunderscoretowards' on page 1 undefined on input line 67.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.67 ...on \cite{li\_2023-12-15T08:46:43Z\_faster}
-                                                  . High-order numerical int...
+Package natbib Warning: Citation `salimans2024multistep' on page 1 undefined on
+ input line 67.
 
 
-Package natbib Warning: Citation `li\T1\textunderscore2023-12-15T08:46:43Z\T1\t
-extunderscorefaster' on page 1 undefined on input line 67.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.67 ...ongsa\_2023-01-27T06:48:29Z\_accelerating}
-                                                   and wavelet-based approac...
+Package natbib Warning: Citation `xia2023towards' on page 1 undefined on input 
+line 67.
 
 
-Package natbib Warning: Citation `wang\T1\textunderscore2022-07-05T17:42:22Z\T1
-\textunderscoreaccelerating' on page 1 undefined on input line 67.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.67 ...ongsa\_2023-01-27T06:48:29Z\_accelerating}
-                                                   and wavelet-based approac...
+Package natbib Warning: Citation `li2023faster' on page 1 undefined on input li
+ne 67.
 
 
-Package natbib Warning: Citation `wizadwongsa\T1\textunderscore2023-01-27T06:48
-:29Z\T1\textunderscoreaccelerating' on page 1 undefined on input line 67.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.67 ...cite{phung\_2022-11-29T12:25:25Z\_wavelet}
-                                                   have also been employed t...
+Package natbib Warning: Citation `wang2022accelerating' on page 1 undefined on 
+input line 67.
 
 
-Package natbib Warning: Citation `phung\T1\textunderscore2022-11-29T12:25:25Z\T
-1\textunderscorewavelet' on page 1 undefined on input line 67.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.67 ...hods \cite{xu\_2023-06-21T18:49:22Z\_semi}
-                                                   provide further insights ...
+Package natbib Warning: Citation `wizadwongsa2023accelerating' on page 1 undefi
+ned on input line 67.
 
 
-Package natbib Warning: Citation `xu\T1\textunderscore2023-06-21T18:49:22Z\T1\t
-extunderscoresemi' on page 1 undefined on input line 67.
+Package natbib Warning: Citation `phung2022wavelet' on page 1 undefined on inpu
+t line 67.
 
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.67 ...ccelerators \cite{author\_year\_efficient}
-                                                  .
 
-Package natbib Warning: Citation `author\T1\textunderscoreyear\T1\textunderscor
-eefficient' on page 1 undefined on input line 67.
+Package natbib Warning: Citation `xu2023semi' on page 1 undefined on input line
+ 67.
+
+
+Package natbib Warning: Citation `authorYearEfficient' on page 1 undefined on i
+nput line 67.
 
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-
 dist/fonts/enc/dvips/base/8r.enc}]
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.71 ...on \cite{li\_2023-12-15T08:46:43Z\_faster}
-                                                  . This observation motivat...
+
+Package natbib Warning: Citation `li2023faster' on page 2 undefined on input li
+ne 71.
 
 
-Package natbib Warning: Citation `li\T1\textunderscore2023-12-15T08:46:43Z\T1\t
-extunderscorefaster' on page 2 undefined on input line 71.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.71 ...{wang\_2022-07-05T17:42:22Z\_accelerating}
-                                                  .
-
-Package natbib Warning: Citation `wang\T1\textunderscore2022-07-05T17:42:22Z\T1
-\textunderscoreaccelerating' on page 2 undefined on input line 71.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.75 ...ficient, li\_2023-12-15T08:46:43Z\_faster}
-                                                   and integrates continuous...
+Package natbib Warning: Citation `wang2022accelerating' on page 2 undefined on 
+input line 71.
 
 
-Package natbib Warning: Citation `author\T1\textunderscoreyear\T1\textunderscor
-eefficient' on page 2 undefined on input line 75.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.75 ...ficient, li\_2023-12-15T08:46:43Z\_faster}
-                                                   and integrates continuous...
+Package natbib Warning: Citation `authorYearEfficient' on page 2 undefined on i
+nput line 75.
 
 
-Package natbib Warning: Citation `li\T1\textunderscore2023-12-15T08:46:43Z\T1\t
-extunderscorefaster' on page 2 undefined on input line 75.
+Package natbib Warning: Citation `li2023faster' on page 2 undefined on input li
+ne 75.
 
 [2]
 Underfull \vbox (badness 10000) has occurred while \output is active [3]
 [4 <./images/inference_benchmark.pdf> <./images/component_ablation.pdf>]
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.119 ...ster, moon\_2024-08-12T05:33:45Z\_simple}
-                                                  .
 
-Package natbib Warning: Citation `li\T1\textunderscore2023-12-15T08:46:43Z\T1\t
-extunderscorefaster' on page 5 undefined on input line 119.
+Package natbib Warning: Citation `li2023faster' on page 5 undefined on input li
+ne 119.
 
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.119 ...ster, moon\_2024-08-12T05:33:45Z\_simple}
-                                                  .
 
-Package natbib Warning: Citation `moon\T1\textunderscore2024-08-12T05:33:45Z\T1
-\textunderscoresimple' on page 5 undefined on input line 119.
+Package natbib Warning: Citation `moon2024simple' on page 5 undefined on input 
+line 119.
 
 
 Package natbib Warning: Citation `airas2025' on page 5 undefined on input line 
@@ -469,65 +367,22 @@ nts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/typ
 e1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
 ic/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/ut
 mb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on paper.pdf (5 pages, 146590 bytes).
+Output written on paper.pdf (5 pages, 146577 bytes).
 Transcript written on paper.log.
 This is BibTeX, Version 0.99d (TeX Live 2023/Debian)
 The top-level auxiliary file: paper.aux
-White space in argument---line 5 of file paper.aux
- : \citation{li\protect
- :                      \T1\textunderscore 2023-12-15T08:46:43Z\protect \T1\textunderscore faster,moon\protect \T1\textunderscore 2024-08-12T05:33:45Z\protect \T1\textunderscore simple}
-I'm skipping whatever remains of this command
-White space in argument---line 6 of file paper.aux
- : \citation{li\protect
- :                      \T1\textunderscore 2023-12-15T08:46:43Z\protect \T1\textunderscore faster,moon\protect \T1\textunderscore 2024-08-12T05:33:45Z\protect \T1\textunderscore simple}
-I'm skipping whatever remains of this command
-White space in argument---line 7 of file paper.aux
- : \citation{salimans\protect
- :                            \T1\textunderscore 2024-06-06T14:20:21Z\protect \T1\textunderscore multistep}
-I'm skipping whatever remains of this command
-White space in argument---line 8 of file paper.aux
- : \citation{xia\protect
- :                       \T1\textunderscore 2023-10-14T02:19:07Z\protect \T1\textunderscore towards}
-I'm skipping whatever remains of this command
-White space in argument---line 9 of file paper.aux
- : \citation{li\protect
- :                      \T1\textunderscore 2023-12-15T08:46:43Z\protect \T1\textunderscore faster}
-I'm skipping whatever remains of this command
-White space in argument---line 10 of file paper.aux
- : \citation{wang\protect
- :                        \T1\textunderscore 2022-07-05T17:42:22Z\protect \T1\textunderscore accelerating,wizadwongsa\protect \T1\textunderscore 2023-01-27T06:48:29Z\protect \T1\textunderscore accelerating}
-I'm skipping whatever remains of this command
-White space in argument---line 11 of file paper.aux
- : \citation{phung\protect
- :                         \T1\textunderscore 2022-11-29T12:25:25Z\protect \T1\textunderscore wavelet}
-I'm skipping whatever remains of this command
-White space in argument---line 12 of file paper.aux
- : \citation{xu\protect
- :                      \T1\textunderscore 2023-06-21T18:49:22Z\protect \T1\textunderscore semi}
-I'm skipping whatever remains of this command
-White space in argument---line 13 of file paper.aux
- : \citation{author\protect
- :                          \T1\textunderscore year\protect \T1\textunderscore efficient}
-I'm skipping whatever remains of this command
-White space in argument---line 17 of file paper.aux
- : \citation{li\protect
- :                      \T1\textunderscore 2023-12-15T08:46:43Z\protect \T1\textunderscore faster}
-I'm skipping whatever remains of this command
-White space in argument---line 18 of file paper.aux
- : \citation{wang\protect
- :                        \T1\textunderscore 2022-07-05T17:42:22Z\protect \T1\textunderscore accelerating}
-I'm skipping whatever remains of this command
-White space in argument---line 19 of file paper.aux
- : \citation{author\protect
- :                          \T1\textunderscore year\protect \T1\textunderscore efficient,li\protect \T1\textunderscore 2023-12-15T08:46:43Z\protect \T1\textunderscore faster}
-I'm skipping whatever remains of this command
-White space in argument---line 37 of file paper.aux
- : \citation{li\protect
- :                      \T1\textunderscore 2023-12-15T08:46:43Z\protect \T1\textunderscore faster,moon\protect \T1\textunderscore 2024-08-12T05:33:45Z\protect \T1\textunderscore simple}
-I'm skipping whatever remains of this command
 The style file: iclr2024_conference.bst
 Database file #1: references.bib
-(There were 13 error messages)
+Warning--I didn't find a database entry for "li2023faster"
+Warning--I didn't find a database entry for "moon2024simple"
+Warning--I didn't find a database entry for "salimans2024multistep"
+Warning--I didn't find a database entry for "xia2023towards"
+Warning--I didn't find a database entry for "wang2022accelerating"
+Warning--I didn't find a database entry for "wizadwongsa2023accelerating"
+Warning--I didn't find a database entry for "phung2022wavelet"
+Warning--I didn't find a database entry for "xu2023semi"
+Warning--I didn't find a database entry for "authorYearEfficient"
+(There were 9 warnings)
 This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex)
  restricted \write18 enabled.
 entering extended mode
@@ -796,185 +651,83 @@ s been generated with the most recent feature set (\pgfplotsset{compat=1.18}).
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg)
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd)
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msb.cfg)
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.50 ...aster, moon\_2024-08-12T05:33:45Z\_simple}
-                                                  , our approach tailors com...
+
+Package natbib Warning: Citation `li2023faster' on page 1 undefined on input li
+ne 50.
 
 
-Package natbib Warning: Citation `li\T1\textunderscore2023-12-15T08:46:43Z\T1\t
-extunderscorefaster' on page 1 undefined on input line 50.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.50 ...aster, moon\_2024-08-12T05:33:45Z\_simple}
-                                                  , our approach tailors com...
-
-
-Package natbib Warning: Citation `moon\T1\textunderscore2024-08-12T05:33:45Z\T1
-\textunderscoresimple' on page 1 undefined on input line 50.
+Package natbib Warning: Citation `moon2024simple' on page 1 undefined on input 
+line 50.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd)
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.60 ...aster, moon\_2024-08-12T05:33:45Z\_simple}
-                                                  .
 
-Package natbib Warning: Citation `li\T1\textunderscore2023-12-15T08:46:43Z\T1\t
-extunderscorefaster' on page 1 undefined on input line 60.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.60 ...aster, moon\_2024-08-12T05:33:45Z\_simple}
-                                                  .
-
-Package natbib Warning: Citation `moon\T1\textunderscore2024-08-12T05:33:45Z\T1
-\textunderscoresimple' on page 1 undefined on input line 60.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.67 ...salimans\_2024-06-06T14:20:21Z\_multistep}
-                                                   sought to reduce the numb...
+Package natbib Warning: Citation `li2023faster' on page 1 undefined on input li
+ne 60.
 
 
-Package natbib Warning: Citation `salimans\T1\textunderscore2024-06-06T14:20:21
-Z\T1\textunderscoremultistep' on page 1 undefined on input line 67.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.67 ... \cite{xia\_2023-10-14T02:19:07Z\_towards}
-                                                   and have attempted to reu...
+Package natbib Warning: Citation `moon2024simple' on page 1 undefined on input 
+line 60.
 
 
-Package natbib Warning: Citation `xia\T1\textunderscore2023-10-14T02:19:07Z\T1\
-textunderscoretowards' on page 1 undefined on input line 67.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.67 ...on \cite{li\_2023-12-15T08:46:43Z\_faster}
-                                                  . High-order numerical int...
+Package natbib Warning: Citation `salimans2024multistep' on page 1 undefined on
+ input line 67.
 
 
-Package natbib Warning: Citation `li\T1\textunderscore2023-12-15T08:46:43Z\T1\t
-extunderscorefaster' on page 1 undefined on input line 67.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.67 ...ongsa\_2023-01-27T06:48:29Z\_accelerating}
-                                                   and wavelet-based approac...
+Package natbib Warning: Citation `xia2023towards' on page 1 undefined on input 
+line 67.
 
 
-Package natbib Warning: Citation `wang\T1\textunderscore2022-07-05T17:42:22Z\T1
-\textunderscoreaccelerating' on page 1 undefined on input line 67.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.67 ...ongsa\_2023-01-27T06:48:29Z\_accelerating}
-                                                   and wavelet-based approac...
+Package natbib Warning: Citation `li2023faster' on page 1 undefined on input li
+ne 67.
 
 
-Package natbib Warning: Citation `wizadwongsa\T1\textunderscore2023-01-27T06:48
-:29Z\T1\textunderscoreaccelerating' on page 1 undefined on input line 67.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.67 ...cite{phung\_2022-11-29T12:25:25Z\_wavelet}
-                                                   have also been employed t...
+Package natbib Warning: Citation `wang2022accelerating' on page 1 undefined on 
+input line 67.
 
 
-Package natbib Warning: Citation `phung\T1\textunderscore2022-11-29T12:25:25Z\T
-1\textunderscorewavelet' on page 1 undefined on input line 67.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.67 ...hods \cite{xu\_2023-06-21T18:49:22Z\_semi}
-                                                   provide further insights ...
+Package natbib Warning: Citation `wizadwongsa2023accelerating' on page 1 undefi
+ned on input line 67.
 
 
-Package natbib Warning: Citation `xu\T1\textunderscore2023-06-21T18:49:22Z\T1\t
-extunderscoresemi' on page 1 undefined on input line 67.
+Package natbib Warning: Citation `phung2022wavelet' on page 1 undefined on inpu
+t line 67.
 
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.67 ...ccelerators \cite{author\_year\_efficient}
-                                                  .
 
-Package natbib Warning: Citation `author\T1\textunderscoreyear\T1\textunderscor
-eefficient' on page 1 undefined on input line 67.
+Package natbib Warning: Citation `xu2023semi' on page 1 undefined on input line
+ 67.
+
+
+Package natbib Warning: Citation `authorYearEfficient' on page 1 undefined on i
+nput line 67.
 
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-
 dist/fonts/enc/dvips/base/8r.enc}]
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.71 ...on \cite{li\_2023-12-15T08:46:43Z\_faster}
-                                                  . This observation motivat...
+
+Package natbib Warning: Citation `li2023faster' on page 2 undefined on input li
+ne 71.
 
 
-Package natbib Warning: Citation `li\T1\textunderscore2023-12-15T08:46:43Z\T1\t
-extunderscorefaster' on page 2 undefined on input line 71.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.71 ...{wang\_2022-07-05T17:42:22Z\_accelerating}
-                                                  .
-
-Package natbib Warning: Citation `wang\T1\textunderscore2022-07-05T17:42:22Z\T1
-\textunderscoreaccelerating' on page 2 undefined on input line 71.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.75 ...ficient, li\_2023-12-15T08:46:43Z\_faster}
-                                                   and integrates continuous...
+Package natbib Warning: Citation `wang2022accelerating' on page 2 undefined on 
+input line 71.
 
 
-Package natbib Warning: Citation `author\T1\textunderscoreyear\T1\textunderscor
-eefficient' on page 2 undefined on input line 75.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.75 ...ficient, li\_2023-12-15T08:46:43Z\_faster}
-                                                   and integrates continuous...
+Package natbib Warning: Citation `authorYearEfficient' on page 2 undefined on i
+nput line 75.
 
 
-Package natbib Warning: Citation `li\T1\textunderscore2023-12-15T08:46:43Z\T1\t
-extunderscorefaster' on page 2 undefined on input line 75.
+Package natbib Warning: Citation `li2023faster' on page 2 undefined on input li
+ne 75.
 
 [2]
 Underfull \vbox (badness 10000) has occurred while \output is active [3]
 [4 <./images/inference_benchmark.pdf> <./images/component_ablation.pdf>]
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.119 ...ster, moon\_2024-08-12T05:33:45Z\_simple}
-                                                  .
 
-Package natbib Warning: Citation `li\T1\textunderscore2023-12-15T08:46:43Z\T1\t
-extunderscorefaster' on page 5 undefined on input line 119.
+Package natbib Warning: Citation `li2023faster' on page 5 undefined on input li
+ne 119.
 
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.119 ...ster, moon\_2024-08-12T05:33:45Z\_simple}
-                                                  .
 
-Package natbib Warning: Citation `moon\T1\textunderscore2024-08-12T05:33:45Z\T1
-\textunderscoresimple' on page 5 undefined on input line 119.
+Package natbib Warning: Citation `moon2024simple' on page 5 undefined on input 
+line 119.
 
 
 Package natbib Warning: Citation `airas2025' on page 5 undefined on input line 
@@ -997,7 +750,7 @@ e1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
 ic/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/courier/
 ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on paper.pdf (5 pages, 157294 bytes).
+Output written on paper.pdf (5 pages, 157290 bytes).
 Transcript written on paper.log.
 This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex)
  restricted \write18 enabled.
@@ -1267,185 +1020,83 @@ s been generated with the most recent feature set (\pgfplotsset{compat=1.18}).
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg)
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd)
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msb.cfg)
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.50 ...aster, moon\_2024-08-12T05:33:45Z\_simple}
-                                                  , our approach tailors com...
+
+Package natbib Warning: Citation `li2023faster' on page 1 undefined on input li
+ne 50.
 
 
-Package natbib Warning: Citation `li\T1\textunderscore2023-12-15T08:46:43Z\T1\t
-extunderscorefaster' on page 1 undefined on input line 50.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.50 ...aster, moon\_2024-08-12T05:33:45Z\_simple}
-                                                  , our approach tailors com...
-
-
-Package natbib Warning: Citation `moon\T1\textunderscore2024-08-12T05:33:45Z\T1
-\textunderscoresimple' on page 1 undefined on input line 50.
+Package natbib Warning: Citation `moon2024simple' on page 1 undefined on input 
+line 50.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd)
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.60 ...aster, moon\_2024-08-12T05:33:45Z\_simple}
-                                                  .
 
-Package natbib Warning: Citation `li\T1\textunderscore2023-12-15T08:46:43Z\T1\t
-extunderscorefaster' on page 1 undefined on input line 60.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.60 ...aster, moon\_2024-08-12T05:33:45Z\_simple}
-                                                  .
-
-Package natbib Warning: Citation `moon\T1\textunderscore2024-08-12T05:33:45Z\T1
-\textunderscoresimple' on page 1 undefined on input line 60.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.67 ...salimans\_2024-06-06T14:20:21Z\_multistep}
-                                                   sought to reduce the numb...
+Package natbib Warning: Citation `li2023faster' on page 1 undefined on input li
+ne 60.
 
 
-Package natbib Warning: Citation `salimans\T1\textunderscore2024-06-06T14:20:21
-Z\T1\textunderscoremultistep' on page 1 undefined on input line 67.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.67 ... \cite{xia\_2023-10-14T02:19:07Z\_towards}
-                                                   and have attempted to reu...
+Package natbib Warning: Citation `moon2024simple' on page 1 undefined on input 
+line 60.
 
 
-Package natbib Warning: Citation `xia\T1\textunderscore2023-10-14T02:19:07Z\T1\
-textunderscoretowards' on page 1 undefined on input line 67.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.67 ...on \cite{li\_2023-12-15T08:46:43Z\_faster}
-                                                  . High-order numerical int...
+Package natbib Warning: Citation `salimans2024multistep' on page 1 undefined on
+ input line 67.
 
 
-Package natbib Warning: Citation `li\T1\textunderscore2023-12-15T08:46:43Z\T1\t
-extunderscorefaster' on page 1 undefined on input line 67.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.67 ...ongsa\_2023-01-27T06:48:29Z\_accelerating}
-                                                   and wavelet-based approac...
+Package natbib Warning: Citation `xia2023towards' on page 1 undefined on input 
+line 67.
 
 
-Package natbib Warning: Citation `wang\T1\textunderscore2022-07-05T17:42:22Z\T1
-\textunderscoreaccelerating' on page 1 undefined on input line 67.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.67 ...ongsa\_2023-01-27T06:48:29Z\_accelerating}
-                                                   and wavelet-based approac...
+Package natbib Warning: Citation `li2023faster' on page 1 undefined on input li
+ne 67.
 
 
-Package natbib Warning: Citation `wizadwongsa\T1\textunderscore2023-01-27T06:48
-:29Z\T1\textunderscoreaccelerating' on page 1 undefined on input line 67.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.67 ...cite{phung\_2022-11-29T12:25:25Z\_wavelet}
-                                                   have also been employed t...
+Package natbib Warning: Citation `wang2022accelerating' on page 1 undefined on 
+input line 67.
 
 
-Package natbib Warning: Citation `phung\T1\textunderscore2022-11-29T12:25:25Z\T
-1\textunderscorewavelet' on page 1 undefined on input line 67.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.67 ...hods \cite{xu\_2023-06-21T18:49:22Z\_semi}
-                                                   provide further insights ...
+Package natbib Warning: Citation `wizadwongsa2023accelerating' on page 1 undefi
+ned on input line 67.
 
 
-Package natbib Warning: Citation `xu\T1\textunderscore2023-06-21T18:49:22Z\T1\t
-extunderscoresemi' on page 1 undefined on input line 67.
+Package natbib Warning: Citation `phung2022wavelet' on page 1 undefined on inpu
+t line 67.
 
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.67 ...ccelerators \cite{author\_year\_efficient}
-                                                  .
 
-Package natbib Warning: Citation `author\T1\textunderscoreyear\T1\textunderscor
-eefficient' on page 1 undefined on input line 67.
+Package natbib Warning: Citation `xu2023semi' on page 1 undefined on input line
+ 67.
+
+
+Package natbib Warning: Citation `authorYearEfficient' on page 1 undefined on i
+nput line 67.
 
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-
 dist/fonts/enc/dvips/base/8r.enc}]
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.71 ...on \cite{li\_2023-12-15T08:46:43Z\_faster}
-                                                  . This observation motivat...
+
+Package natbib Warning: Citation `li2023faster' on page 2 undefined on input li
+ne 71.
 
 
-Package natbib Warning: Citation `li\T1\textunderscore2023-12-15T08:46:43Z\T1\t
-extunderscorefaster' on page 2 undefined on input line 71.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.71 ...{wang\_2022-07-05T17:42:22Z\_accelerating}
-                                                  .
-
-Package natbib Warning: Citation `wang\T1\textunderscore2022-07-05T17:42:22Z\T1
-\textunderscoreaccelerating' on page 2 undefined on input line 71.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.75 ...ficient, li\_2023-12-15T08:46:43Z\_faster}
-                                                   and integrates continuous...
+Package natbib Warning: Citation `wang2022accelerating' on page 2 undefined on 
+input line 71.
 
 
-Package natbib Warning: Citation `author\T1\textunderscoreyear\T1\textunderscor
-eefficient' on page 2 undefined on input line 75.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.75 ...ficient, li\_2023-12-15T08:46:43Z\_faster}
-                                                   and integrates continuous...
+Package natbib Warning: Citation `authorYearEfficient' on page 2 undefined on i
+nput line 75.
 
 
-Package natbib Warning: Citation `li\T1\textunderscore2023-12-15T08:46:43Z\T1\t
-extunderscorefaster' on page 2 undefined on input line 75.
+Package natbib Warning: Citation `li2023faster' on page 2 undefined on input li
+ne 75.
 
 [2]
 Underfull \vbox (badness 10000) has occurred while \output is active [3]
 [4 <./images/inference_benchmark.pdf> <./images/component_ablation.pdf>]
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.119 ...ster, moon\_2024-08-12T05:33:45Z\_simple}
-                                                  .
 
-Package natbib Warning: Citation `li\T1\textunderscore2023-12-15T08:46:43Z\T1\t
-extunderscorefaster' on page 5 undefined on input line 119.
+Package natbib Warning: Citation `li2023faster' on page 5 undefined on input li
+ne 119.
 
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.119 ...ster, moon\_2024-08-12T05:33:45Z\_simple}
-                                                  .
 
-Package natbib Warning: Citation `moon\T1\textunderscore2024-08-12T05:33:45Z\T1
-\textunderscoresimple' on page 5 undefined on input line 119.
+Package natbib Warning: Citation `moon2024simple' on page 5 undefined on input 
+line 119.
 
 (./paper.bbl (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pcr.fd))
 
